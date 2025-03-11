@@ -29,11 +29,7 @@ A Node.js API for managing school data with proximity-based search functionality
      PORT=3000
      ```
 
-4. Set up the database:
-   - Run the SQL script to create the database and tables:
-     ```
-     mysql -u your_username -p < setup.sql
-     ```
+4. Set up the database
 
 ## Running the Application
 
